@@ -1,0 +1,12 @@
+C:\Users\binu\source\repos\CPSConnect\CPSConnectModel\bin\Release\net5.0\CPSConnectModel.deps.json
+C:\Users\binu\source\repos\CPSConnect\CPSConnectModel\bin\Release\net5.0\CPSConnectModel.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectModel\bin\Release\net5.0\ref\CPSConnectModel.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectModel\bin\Release\net5.0\CPSConnectModel.pdb
+C:\Users\binu\source\repos\CPSConnect\CPSConnectModel\obj\Release\net5.0\CPSConnectModel.csprojAssemblyReference.cache
+C:\Users\binu\source\repos\CPSConnect\CPSConnectModel\obj\Release\net5.0\CPSConnectModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binu\source\repos\CPSConnect\CPSConnectModel\obj\Release\net5.0\CPSConnectModel.AssemblyInfoInputs.cache
+C:\Users\binu\source\repos\CPSConnect\CPSConnectModel\obj\Release\net5.0\CPSConnectModel.AssemblyInfo.cs
+C:\Users\binu\source\repos\CPSConnect\CPSConnectModel\obj\Release\net5.0\CPSConnectModel.csproj.CoreCompileInputs.cache
+C:\Users\binu\source\repos\CPSConnect\CPSConnectModel\obj\Release\net5.0\CPSConnectModel.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectModel\obj\Release\net5.0\ref\CPSConnectModel.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectModel\obj\Release\net5.0\CPSConnectModel.pdb

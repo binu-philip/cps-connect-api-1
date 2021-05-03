@@ -1,0 +1,16 @@
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\CPSConnectAPI.exe
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\CPSConnectAPI.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\CPSConnectAPI.deps.json
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\CPSConnectAPI.runtimeconfig.json
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\CPSConnectAPI.pdb
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\CPSConnectModel.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\CPSConnectService.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\CPSConnectModel.pdb
+C:\Users\binu\source\repos\CPSConnect\CPSConnectAPI\obj\Release\net5.0\PubTmp\Out\CPSConnectService.pdb

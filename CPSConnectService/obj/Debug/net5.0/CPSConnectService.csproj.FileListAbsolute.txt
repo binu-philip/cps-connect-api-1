@@ -1,0 +1,15 @@
+C:\Users\binu\source\repos\CPSConnect\CPSConnectService\bin\Debug\net5.0\CPSConnectService.deps.json
+C:\Users\binu\source\repos\CPSConnect\CPSConnectService\bin\Debug\net5.0\CPSConnectService.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectService\bin\Debug\net5.0\ref\CPSConnectService.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectService\bin\Debug\net5.0\CPSConnectService.pdb
+C:\Users\binu\source\repos\CPSConnect\CPSConnectService\obj\Debug\net5.0\CPSConnectService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binu\source\repos\CPSConnect\CPSConnectService\obj\Debug\net5.0\CPSConnectService.AssemblyInfoInputs.cache
+C:\Users\binu\source\repos\CPSConnect\CPSConnectService\obj\Debug\net5.0\CPSConnectService.AssemblyInfo.cs
+C:\Users\binu\source\repos\CPSConnect\CPSConnectService\obj\Debug\net5.0\CPSConnectService.csproj.CoreCompileInputs.cache
+C:\Users\binu\source\repos\CPSConnect\CPSConnectService\obj\Debug\net5.0\CPSConnectService.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectService\obj\Debug\net5.0\ref\CPSConnectService.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectService\obj\Debug\net5.0\CPSConnectService.pdb
+C:\Users\binu\source\repos\CPSConnect\CPSConnectService\bin\Debug\net5.0\CPSConnectModel.dll
+C:\Users\binu\source\repos\CPSConnect\CPSConnectService\bin\Debug\net5.0\CPSConnectModel.pdb
+C:\Users\binu\source\repos\CPSConnect\CPSConnectService\obj\Debug\net5.0\CPSConnectService.csprojAssemblyReference.cache
+C:\Users\binu\source\repos\CPSConnect\CPSConnectService\obj\Debug\net5.0\CPSConnectService.csproj.CopyComplete
